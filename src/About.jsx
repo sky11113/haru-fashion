@@ -21,12 +21,12 @@ function About() {
         <div className="about-info">
           <div>
             <h2>店铺地址</h2>
-            <p>上海市徐汇区校园路 18 号 2 层 203 室</p>
+            <p>杭州市富阳区富春街道三联村上青岭12号</p>
           </div>
           <div>
             <h2>联系方式</h2>
-            <p>电话：021-8888-2026</p>
-            <p>邮箱：hello@yangyang-style.example</p>
+            <p>电话：18258186154</p>
+            <p>微信：J456__</p>
           </div>
         </div>
       </div>
